@@ -1,7 +1,7 @@
 var animation = lottie.loadAnimation({
   container: document.getElementById("lottie"),
   renderer: "svg",
-  loop: false,
+  loop: true,
   autoplay: false,
   path: "ic_done.json"
 	
