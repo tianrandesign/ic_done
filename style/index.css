@@ -3,6 +3,7 @@
 body{margin: 0;}
 
 #lottie {
+	background-color: #F1F1F1;
   width: 100%;
   height: 100%;
   display: block;
